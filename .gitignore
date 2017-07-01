@@ -3,3 +3,6 @@
 tags
 .editorconfig
 .DS_Store
+*Ipopt*
+*cppad*
+.gitignore*
